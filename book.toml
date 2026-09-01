@@ -1,0 +1,13 @@
+[book]
+title = "actl-shell"
+description = "Исследование и проектирование shell режима alteratorctl"
+language = "ru"
+src = "src"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
