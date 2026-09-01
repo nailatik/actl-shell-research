@@ -31,7 +31,7 @@
 
 - объектный контекст и динамическое completion для `services`;
 - timeout и кэш completion;
-- `history save` и простые сценарии через `source`;
+- `history save` и простые сценарии через `script`;
 - номера строк и `stop-on-error` для сценариев;
 - корректный progress длительных операций.
 
