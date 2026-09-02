@@ -208,7 +208,7 @@ actl> history
 6 services list
 7 sources list
 8 diag list
-actl> history save inspect.actl 4..9
+actl> history save inspect.actl 4..8
 actl> script inspect.actl
 ```
 
